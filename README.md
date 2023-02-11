@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech, business and open learning.
 - 🌱 I’m currently learning data science and machine learning
 - 💞️ I’m looking to collaborate on what I am interested on and learning.
-- 📫 How to reach me neerajandmandira@gmail.com
+- 📫 How to reach me neerajgyawali5508@gmail.com
 
 <!---
 NeerajGyawali55/NeerajGyawali55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
